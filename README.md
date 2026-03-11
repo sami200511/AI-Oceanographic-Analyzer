@@ -65,7 +65,7 @@ The app monitors the following locations:
 
 ```bash
 git clone https://github.com/sami200511/AI-Oceanographic-Analyzer.git
-cd oceanai
+cd AI-Oceanographic-Analyzer
 ```
 
 ### 2. Install dependencies
